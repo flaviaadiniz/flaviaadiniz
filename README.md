@@ -15,6 +15,6 @@
 <br>
 <div>
 <a href="github.com/flaviaadiniz">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=flaviaadiniz&show_icons=true&theme=dracula"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviaadiniz&layout=compact&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviaadiniz&show_icons=true&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviaadiniz&layout=compact&theme=dracula"/>
 </div>
