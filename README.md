@@ -1,6 +1,6 @@
 ### Hi there! I'm Flávia Diniz 👩‍💻
 
-- 📍 I'm from Porto Alegre, Brazil.
+- 📍 Porto Alegre, Brazil.
 - 🌱 I’m currently learning Java, Spring, HTML, CSS, JavaScript & SQL.
 - 📫 Reach me at: flaviaadiniz@gmail.com
 - 💻 LinkedIn: https://www.linkedin.com/in/flaviaadiniz/
