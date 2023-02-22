@@ -1,7 +1,7 @@
 ### Hi there! I'm Flávia Diniz 👩‍💻
 
 - 📍 Porto Alegre, Brazil.
-- 👩‍🎓 I'm a Systems Analysis and Development student.
+- 👩‍🎓 Systems Analysis and Development student.
 - 🌱 I’m currently learning Java, Spring, HTML, CSS, JavaScript & SQL.
 - 📫 Reach me at: flaviaadiniz@gmail.com
 - 💻 LinkedIn: https://www.linkedin.com/in/flaviaadiniz/
