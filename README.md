@@ -21,7 +21,7 @@
 </div>
 <hr>
 
-<div>
+<div align="center">
 <a href="github.com/flaviaadiniz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviaadiniz&show_icons=true&theme=dracula"/>
 <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviaadiniz&layout=compact&theme=dracula"/>
