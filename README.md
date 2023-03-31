@@ -3,8 +3,7 @@
 - 📍 Porto Alegre, Brazil.
 - 👩‍🎓 Systems Analysis and Development student.
 - ☕ My strengths are Java & Spring.
-- 🐍 I’m currently learning Python & SQL.
-- 🌱I have basic knowledge of HTML, CSS & JavaScript.
+- 🌱 I’m currently learning Python & SQL.
 - 📫 Reach me at: flaviaadiniz@gmail.com
 - 💻 LinkedIn: https://www.linkedin.com/in/flaviaadiniz/
 
