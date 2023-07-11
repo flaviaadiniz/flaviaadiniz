@@ -17,9 +17,8 @@
 
 <hr>
 
-
+### Main Technologies:
 <div>
-<p> Main Technologies:</p> 
 <img height="70px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img height="70px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img height="70px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>        
