@@ -7,17 +7,22 @@
 - 📫 Reach me at: flaviaadiniz@gmail.com
 - 💻 LinkedIn: https://www.linkedin.com/in/flaviaadiniz/
 
-<div>
-<img height="70px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img height="70px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img height="70px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>        
-<img height="70px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>    
-</div>
 <hr>
 
 <div align="center">
 <a href="github.com/flaviaadiniz">
 <img height="182em" src="https://github-readme-stats.vercel.app/api?username=flaviaadiniz&show_icons=true&theme=radical"/>
 <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviaadiniz&layout=compact&theme=radical"/>
+</div>
+
+<hr>
+
+
+<div align="center">
+<p> Main Technologies:</p> 
+<img height="70px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height="70px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img height="70px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>        
+<img height="70px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>    
 </div>
 
