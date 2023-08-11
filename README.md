@@ -1,9 +1,8 @@
 ### Hi there! I'm Flávia Diniz 👩‍💻
 
-- 📍 Porto Alegre, Brazil.
-- 👩‍🎓 Systems Analysis and Development student at Unisinos.
-- 🌱I’m currently working on my Java, Spring and SQL skills.
-- 📫 Reach me at: flaviaadiniz@gmail.com
+- 📍 Porto Alegre, Brazil
+- 👩‍🎓 Systems Analysis and Development Student @ Unisinos
+- 👩‍💻 Software Development Intern @ ADP Brazil Labs, currently diving deeper into Test Automation
 - 💻 LinkedIn: https://www.linkedin.com/in/flaviaadiniz/
 
 <hr>
@@ -16,11 +15,12 @@
 
 <hr>
 
-### Main Technologies:
+### - Main Technologies -
 <div>
-<img height="70px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img height="70px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img height="70px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>        
-<img height="70px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>    
+
+<img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  
+<img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />  &nbsp
+<img height="65px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
+
 </div>
 
