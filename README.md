@@ -15,9 +15,9 @@
 
 <hr>
 
+<div align="center">
+  
 ### - Main Technologies -
-<div>
-
 <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  
 <img height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />  &nbsp
 <img height="65px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
