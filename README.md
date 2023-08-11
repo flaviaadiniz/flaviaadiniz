@@ -3,7 +3,6 @@
 - 📍 Porto Alegre, Brazil.
 - 👩‍🎓 Systems Analysis and Development student at Unisinos.
 - 🌱I’m currently working on my Java, Spring and SQL skills.
-- 💡 I have basic knowledge of Python, HTML, CSS and JavaScript.
 - 📫 Reach me at: flaviaadiniz@gmail.com
 - 💻 LinkedIn: https://www.linkedin.com/in/flaviaadiniz/
 
