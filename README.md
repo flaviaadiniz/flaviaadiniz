@@ -2,7 +2,7 @@
 
 - 📍 Porto Alegre, Brazil
 - 👩‍🎓 Systems Analysis and Development Student @ Unisinos
-- 👩‍💻 Software Development Intern @ ADP Brazil Labs, currently diving deeper into Test Automation
+- 👩‍💻 Software Development Intern @ ADP Brazil Labs
 - 💻 LinkedIn: https://www.linkedin.com/in/flaviaadiniz/
 
 <hr>
