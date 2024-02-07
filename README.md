@@ -1,4 +1,3 @@
-### Hi there, I'm Flávia Diniz!
 
 - 📍 Porto Alegre, Brazil
 - 👩‍🎓 Systems Analysis and Development Student @ Unisinos
